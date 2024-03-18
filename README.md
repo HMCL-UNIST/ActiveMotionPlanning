@@ -8,7 +8,7 @@ We develop the algorithm for a autonomous vehicle to safely and actively interac
 
 
 ## Experiment Results
-[![Video Label](http://img.youtube.com/vi/UGte64IgJBk/0.jpg)]((https://youtu.be/UGte64IgJBk))
+[![Video Label](http://img.youtube.com/vi/UGte64IgJBk/0.jpg)](https://youtu.be/UGte64IgJBk)
 
 ## How to run main algorithm
 
