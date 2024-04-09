@@ -15,13 +15,15 @@ We develop the algorithm for a autonomous vehicle to safely and actively interac
 1. NVIDIA Graphic card and torch is required
    - pip install torch
    
-## Directory Information
-main.py       --- Run this file  
+## Information
+1. Directory  
+main.py       --- Main algorithm file  
 human_model    --- Folder for human decision making algorithms  
 motion_planning   --- Folder for robot motion planning algorithms  
 utils         --- Folder for visualization and reference trajectory algorithms  
 result        --- Simulation results will be saved in this folder    
-README.md     --- This instruction file  
+README.md     --- Instruction file  
 
-
+2. How to run
+   - python main.py
 
